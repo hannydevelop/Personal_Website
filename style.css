@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Lato', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color:#e9ecef;
+    background-color:#09437e;
     line-height: 1.9;
 }
 
@@ -61,6 +61,10 @@ img{
 .hello, .hello1{
     font-weight:bold;
     font-size: 50px;
+}
+
+.hello2{
+    color: red;
 }
 
 .contact {
