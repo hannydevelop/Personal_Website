@@ -146,3 +146,9 @@ line-height: 70px;
     color: #361a1a;
     text-transform: uppercase;
   }
+
+  .extra-text{
+    color: rgb(3, 70, 3);
+    padding: 10%;
+    font-size: larger;
+  }
